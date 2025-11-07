@@ -1,7 +1,7 @@
 Slot	Nick		Nivel	ID	
 1	Bulbasaur	5	1
 2	Rattata		10	19
-3				
+3	Raticate	21	20
 4				
 5				
 6				
