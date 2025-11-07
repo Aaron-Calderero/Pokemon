@@ -3,5 +3,7 @@ Slot	Nick		Nivel	ID
 2	Rattata		10	19
 3	Raticate	21	20
 4				
+3	Pidgey		8	16
+4	Rattata		5	19
 5				
 6				

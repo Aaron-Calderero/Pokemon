@@ -14,7 +14,7 @@ ID	Nombre		Tipo
 0013			
 0014			
 0015			
-0016			
+0016	Pidgey	Normal
 0017			
 0018			
 0019	Rattata	Normal			
